@@ -8,7 +8,7 @@ O Feedback Widget, carinhosamente apelidado de "FeedGet", foi criado com a inten
 Sendo ele um problema, uma ideia ou "outro", a preferência do usuário, enviando seu feedback em texto, juntamente com uma screenshot, diretamente para o email do desenvolvedor do site.
  
  <div align="center">
- <img src="https://github.com/rubensfranklin/Nlw-Return/blob/main/src/img/Captura%20de%20Tela%20(90).png">
+ <img src="https://github.com/rubensfranklin/Nfl-Return/blob/main/web/src/assets/capa.png">
  </div>
 
 ## :rocket: Tecnologias ##
