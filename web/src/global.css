@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  @apply dark:bg-[#09090A] dark:text-zinc-100 bg-zinc-50 text-zinc-800;
+}
+
+
+div {
+  text-align: left;
+  display: flex;
+  justify-content: left;
+  margin: 1rem;
+ 
+}
+
+img {
+  width: 15%;
+}
